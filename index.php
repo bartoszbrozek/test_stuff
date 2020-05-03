@@ -11,3 +11,7 @@ function feature() {
 function epicFeature() {
     return "5225";
 }
+
+function nextFeature() {
+    return;
+}
