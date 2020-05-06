@@ -15,3 +15,7 @@ function epicFeature() {
 function nextFeature() {
     return;
 }
+
+function devFeature() {
+
+}
