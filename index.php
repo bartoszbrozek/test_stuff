@@ -16,6 +16,10 @@ function nextFeature() {
     return;
 }
 
+function bartek() {
+    return "Bartek";
+}
+
 function devFeature() {
     return 23;
 }
