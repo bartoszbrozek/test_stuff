@@ -19,3 +19,7 @@ function nextFeature() {
 function devFeature() {
     return 23;
 }
+
+function paszolwon() {
+
+}
